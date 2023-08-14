@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Parashar</h1>
-<h3 align="center">A passionate frontend developer from India.An organized and dependable candidate who is successful at managing multiple priorities with a positive attitude.</h3>
+<h3 align="center">A passionate front-end developer from India.An organized and dependable candidate who is successful at managing multiple priorities with a positive attitude.</h3>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Codding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47fi18r9ac2s5eo8jvbs6bp0oqjwrvvvp0tkndnemj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-parashar&label=Profile%20views&color=0e75b6&style=flat" alt="naman-parashar" /> </p>
 
